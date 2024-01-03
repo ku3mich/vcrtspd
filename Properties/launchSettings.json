@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "vcrtspd": {
+      "commandName": "Project",
+      "commandLineArgs": "\"[Webcam C170]/+/[640x480xYUYV]\""
+    }
+  }
+}
